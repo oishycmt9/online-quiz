@@ -4,30 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CreateContestEnrollmentsTable extends Migration
+class CreateContestEnrollmentsTable extends Migration
 {
     /**
      * Run the migrations.
